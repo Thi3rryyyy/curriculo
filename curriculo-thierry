@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currículo - Thierry Costa Carvalho</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .contact, .skills, .education, .experience, .courses {
+      margin-bottom: 20px;
+    }
+    .section-title {
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .subsection {
+      margin-left: 20px;
+    }
+    .subsection-title {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Thierry Costa Carvalho</h1>
+
+  <div class="contact">
+    <p>Curitiba, PR, Brasil | +55 (41) 99152-0022 | thi_ccarvalho@hotmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/mwlite/in/thierry-costa-carvalho" target="_blank">linkedin.com/mwlite/in/thierry-costa-carvalho</a></p>
+  </div>
+
+  <div class="summary">
+    <h2 class="section-title">Resumo Profissional</h2>
+    <p>Profissional com experiência em hotelaria e bares, incluindo trabalho em navios de cruzeiro. Busco novos desafios profissionais para desenvolver minhas habilidades e contribuir para o crescimento da empresa.</p>
+  </div>
+
+  <div class="experience">
+    <h2 class="section-title">Experiência Profissional</h2>
+
+    <div class="subsection">
+      <p class="subsection-title">Barboy | MSC Cruzeiros</p>
+      <p>2023 - 2024</p>
+      <p>Atendimento a passageiros, suporte aos bartenders na preparação de bebidas, organização e abastecimento do bar. Recebi uma avaliação alta para promoção.</p>
+    </div>
+
+    <div class="subsection">
+      <p class="subsection-title">Bartender | Jardim Gastronômico</p>
+      <p>Fev 2022 - Presente</p>
+      <p>Preparação de drinks e coquetéis, atendimento ao cliente, organização do bar e controle de estoque. Experiência também como garçom e recepcionista.</p>
+    </div>
+
+    <div class="subsection">
+      <p class="subsection-title">Consultor de Qualidade | COPLAF</p>
+      <p>2019 - 2020</p>
+      <p>Gestão de chamadas, controle de planilhas, organização de arquivos e suporte em atividades de campo, como inventário e controle de pragas.</p>
+    </div>
+
+    <div class="subsection">
+      <p class="subsection-title">Estagiário em Ecologia Florestal | UFPR</p>
+      <p>2018 - 2019</p>
+      <p>Monitoramento ecológico, inventário de araucárias e controle de espécies invasoras.</p>
+    </div>
+  </div>
+
+  <div class="education">
+    <h2 class="section-title">Educação</h2>
+    <div class="subsection">
+      <p class="subsection-title">Universidade Federal do Paraná (UFPR)</p>
+      <p>Bacharelado em Engenharia Florestal (2018 - 2024)</p>
+    </div>
+  </div>
+
+  <div class="skills">
+    <h2 class="section-title">Habilidades</h2>
+    <ul>
+      <li>Microsoft Word & Excel</li>
+      <li>Atendimento ao Cliente</li>
+      <li>Preparação de Coquetéis e Mixologia</li>
+      <li>Produção de Conteúdo para Redes Sociais</li>
+      <li>Português (Nativo)</li>
+      <li>Inglês (B2 - Intermediário/Avançado)</li>
+      <li>Espanhol (Intermediário/Avançado)</li>
+    </ul>
+  </div>
+
+  <div class="courses">
+    <h2 class="section-title">Cursos & Certificações</h2>
+    <ul>
+      <li>Inglês (Cenaic, Não Concluído)</li>
+      <li>Francês (Curso Particular, 2020)</li>
+      <li>Informática (Cenaic, Ago 2017 – Fev 2018, Não Concluído)</li>
+    </ul>
+  </div>
+
+</body>
+</html>
